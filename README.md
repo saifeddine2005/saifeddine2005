@@ -18,8 +18,8 @@ Hands-on experience in team environments
 Developed strong skills in collaboration and project management
 ------------------------------------------------------------------------
 🌐 Socials:
-Instagram 
-LinkedIn
+
+LinkedIn  www.linkedin.com/in/saif-eddine-enabt-9b3b312b4
 ---------------------------------------------------------------------------
 💻 Tech Stack:
 C Windows Terminal PHP Java CSS3 Spring Postgres Postman JavaScript
