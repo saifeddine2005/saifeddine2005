@@ -13,14 +13,6 @@ Skilled in version control with Git
 Familiar with Docker for containerization
 Implemented CI/CD pipelines to automate testing and ensure fast, reliable delivery*
 ------------------------------------------------------------------------
-🤝 Teamwork & Project Management
-Hands-on experience in team environments
-Developed strong skills in collaboration and project management
-------------------------------------------------------------------------
-🌐 Socials:
-
-LinkedIn  www.linkedin.com/in/saif-eddine-enabt-9b3b312b4
----------------------------------------------------------------------------
 💻 Tech Stack:
 C Windows Terminal PHP Java CSS3 Spring Postgres Postman JavaScript
 C Express.js Chakra Chart.js Nodemon MongoDB MySQL GitHub Actions 
