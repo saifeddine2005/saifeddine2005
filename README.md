@@ -9,7 +9,5 @@ Databases:
 Experienced with SQL and NoSQL database*
 --------------------------------------------------
 *🔧 Development Stack
-Skilled in version control with Git
-Familiar with Docker for containerization
-Implemented CI/CD pipelines to automate testing and ensure fast, reliable delivery*
+*
 
