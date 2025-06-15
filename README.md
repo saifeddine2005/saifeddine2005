@@ -8,6 +8,4 @@ Proficient in ReactJS, PHP, NodeJS, and Spring Boot
 Databases:
 Experienced with SQL and NoSQL database*
 --------------------------------------------------
-*🔧 Development Stack
-*
 
