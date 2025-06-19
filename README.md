@@ -6,6 +6,6 @@ frontend development. Passionate about building efficient and impactful solution
 Languages & Frameworks:
 Proficient in ReactJS, PHP, NodeJS, and Spring Boot
 Databases:
-Experienced with SQL and NoSQL database*
+Experienced with SQL and NoSQL database* 
 --------------------------------------------------
 
